@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1052e909-50c3-4ab3-a89e-7bb955c3ec7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/commit4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/commit6.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,11 +39,6 @@
         <option value="$PROJECT_DIR$/.idea/google-java-format.xml" />
       </list>
     </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="786" />
-    <option name="width" value="814" />
-    <option name="height" value="860" />
   </component>
   <component name="ProjectId" id="1WFge3SE5yCWVQ4B4M7U9XSLixS" />
   <component name="ProjectViewState">
@@ -94,7 +88,7 @@
       <option name="presentableId" value="Default" />
       <updated>1560135738089</updated>
       <workItem from="1560135749303" duration="15113000" />
-      <workItem from="1578750850842" duration="1139000" />
+      <workItem from="1578750850842" duration="1667000" />
     </task>
     <servers />
   </component>
